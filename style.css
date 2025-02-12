@@ -222,4 +222,10 @@ body {
         top: 250px;
         right: -25px;
     } 
+    @media screen and (max-width: 409px) {
+        #toggle-transition-btn {
+            top: 250px;
+            right: -25px;
+        } 
+    }
 }
