@@ -213,6 +213,13 @@ body {
 
 @media screen and (max-width: 600px) {
     #toggle-transition-btn {
-        right: 35px;
+        right: -25px;
+    } 
+}
+
+@media screen and (max-width: 409px) {
+    #toggle-transition-btn {
+        top: 250px;
+        right: -25px;
     } 
 }
